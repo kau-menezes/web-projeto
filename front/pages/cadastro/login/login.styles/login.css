@@ -44,3 +44,15 @@ h6{
     border-color: #008F6E;
     border: #008F6E;
 }
+
+.foto{
+    margin-top: 20px;
+    max-width: 100px;
+}
+
+.meio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
